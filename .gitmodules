@@ -610,3 +610,7 @@
 	path = mailbox_replica
 	url = https://github.com/ForgeFlow/mailbox_replica.git
 	branch = 12.0
+[submodule "Openworx-odoo-addons"]
+	path = Openworx-odoo-addons
+	url = https://github.com/RLCO/Openworx-odoo-addons.git
+	branch = 12.0
