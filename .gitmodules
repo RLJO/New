@@ -542,3 +542,19 @@
 	path = transport-management-system
 	url = https://github.com/RLCO/transport-management-system.git
 	branch = 12.0
+[submodule "trey-addons"]
+	path = trey-addons
+	url = https://github.com/RLCO/trey-addons.git
+	branch = 12.0
+[submodule "vertical-association"]
+	path = vertical-association
+	url = https://github.com/RLCO/vertical-association.git
+	branch = 12.0
+[submodule "vertical-cooperative"]
+	path = vertical-cooperative
+	url = https://github.com/RLCO/vertical-cooperative.git
+	branch = 12.0
+[submodule "vertical-hotel"]
+	path = vertical-hotel
+	url = https://github.com/RLCO/vertical-hotel.git
+	branch = 12.0
