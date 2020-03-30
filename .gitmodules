@@ -606,3 +606,7 @@
 	path = OdooEduERP
 	url = https://github.com/RLCO/OdooEduERP.git
 	branch = 12.0
+[submodule "mailbox_replica"]
+	path = mailbox_replica
+	url = https://github.com/ForgeFlow/mailbox_replica.git
+	branch = 12.0
