@@ -318,3 +318,83 @@
 	path = odoo-addons-cae
 	url = https://github.com/RLCO/odoo-addons-cae.git
 	branch = 12.0
+[submodule "odoo-addons-company-wizard"]
+	path = odoo-addons-company-wizard
+	url = https://github.com/RLCO/odoo-addons-company-wizard.git
+	branch = 12.0
+[submodule "odoo-addons-hr-incubator"]
+	path = odoo-addons-hr-incubator
+	url = https://github.com/RLCO/odoo-addons-hr-incubator.git
+	branch = 12.0
+[submodule "odoo-addons-multi-company"]
+	path = odoo-addons-multi-company
+	url = https://github.com/RLCO/odoo-addons-multi-company.git
+	branch = 12.0
+[submodule "odooapps"]
+	path = odooapps
+	url = https://github.com/RLCO/odooapps.git
+	branch = 12.0
+[submodule "odoo-mooncard-connector"]
+	path = odoo-mooncard-connector
+	url = https://github.com/RLCO/odoo-mooncard-connector.git
+	branch = 12.0
+[submodule "odoo-py3o-report-templates"]
+	path = odoo-py3o-report-templates
+	url = https://github.com/RLCO/odoo-py3o-report-templates.git
+	branch = 12.0
+[submodule "odoo-shopinvader"]
+	path = odoo-shopinvader
+	url = https://github.com/RLCO/odoo-shopinvader.git
+	branch = 12.0
+[submodule "odoo-shopinvader-payment"]
+	path = odoo-shopinvader-payment
+	url = https://github.com/RLCO/odoo-shopinvader-payment.git
+	branch = 12.0
+[submodule "odoo-usability"]
+	path = odoo-usability
+	url = https://github.com/RLCO/odoo-usability.git
+	branch = 12.0
+[submodule "odoo-viewer-groups"]
+	path = odoo-viewer-groups
+	url = https://github.com/RLCO/odoo-viewer-groups.git
+	branch = 12.0
+[submodule "OpenHRMS"]
+	path = OpenHRMS
+	url = https://github.com/RLCO/OpenHRMS.git
+	branch = 12.0
+[submodule "operating-unit"]
+	path = operating-unit
+	url = https://github.com/RLCO/operating-unit.git
+	branch = 12.0
+[submodule "partner"]
+	path = partner
+	url = https://github.com/RLCO/partner.git
+	branch = 12.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/RLCO/partner-contact.git
+	branch = 12.0
+[submodule "patches"]
+	path = patches
+	url = https://github.com/RLCO/patches.git
+	branch = 12.0
+[submodule "pos"]
+	path = pos
+	url = https://github.com/RLCO/pos.git
+	branch = 12.0
+[submodule "pos-addons"]
+	path = pos-addons
+	url = https://github.com/RLCO/pos-addons.git
+	branch = 12.0
+[submodule "product"]
+	path = product
+	url = https://github.com/RLCO/product.git
+	branch = 12.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/RLCO/product-attribute.git
+	branch = 12.0
+[submodule "product-pack"]
+	path = product-pack
+	url = https://github.com/RLCO/product-pack.git
+	branch = 12.0
