@@ -614,3 +614,11 @@
 	path = Openworx-odoo-addons
 	url = https://github.com/RLCO/Openworx-odoo-addons.git
 	branch = 12.0
+[submodule "backend_theme"]
+	path = backend_theme
+	url = https://github.com/RLCO/backend_theme.git
+	branch = 12.0
+[submodule "SythilTech-Odoo"]
+	path = SythilTech-Odoo
+	url = https://github.com/RLCO/SythilTech-Odoo.git
+	branch = 12.0
