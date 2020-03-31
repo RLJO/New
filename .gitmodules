@@ -594,7 +594,3 @@
 	path = odoo_addons
 	url = https://github.com/RLCO/odoo_addons.git
 	branch = 12.0
-[submodule "ingadhoc_website"]
-	path = ingadhoc_website
-	url = https://github.com/RLCO/ingadhoc_website.git
-	branch = 12.0
