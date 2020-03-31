@@ -622,3 +622,7 @@
 	path = SythilTech-Odoo
 	url = https://github.com/RLCO/SythilTech-Odoo.git
 	branch = 12.0
+[submodule "account-move-import"]
+	path = account-move-import
+	url = https://github.com/RLCO/account-move-import.git
+	branch = 12.0
