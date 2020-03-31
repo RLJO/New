@@ -582,15 +582,3 @@
 	path = wms
 	url = https://github.com/RLCO/wms.git
 	branch = 12.0
-[submodule "openeducat_erp"]
-	path = openeducat_erp
-	url = https://github.com/RLCO/openeducat_erp.git
-	branch = 12.0
-[submodule "app-odoo"]
-	path = app-odoo
-	url = https://github.com/RLCO/app-odoo.git
-	branch = 12.0
-[submodule "odoo_addons"]
-	path = odoo_addons
-	url = https://github.com/RLCO/odoo_addons.git
-	branch = 12.0
