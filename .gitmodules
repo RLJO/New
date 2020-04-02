@@ -626,3 +626,8 @@
 	path = account-move-import
 	url = https://github.com/RLCO/account-move-import.git
 	branch = 12.0
+
+[submodule "Multti-RL"]
+	path = Multti-RL
+	url = git@github.com:RLCO/Multti-RL.git
+	branch = Shipping
