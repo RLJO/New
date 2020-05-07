@@ -631,3 +631,8 @@
 	path = Multti-RL
 	url = git@github.com:RLCO/Multti-RL.git
 	branch = Shipping
+
+[submodule "jethealthsolutions"]
+	path = jethealthsolutions
+	url = git@github.com:rlfss/jethealthsolutions.git
+	branch = master
