@@ -1,0 +1,4 @@
+[submodule "Jethealthsolutions"]
+	path = Jethealthsolutions
+	url = git@github.com:rlfss/jethealthsolutions.git
+	branch = master
