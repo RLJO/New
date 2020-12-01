@@ -17,3 +17,8 @@
 	path = OCA-MUK/muk_quality
 	url = git@github.com:OCA-MUK/muk_quality.git
 	branch = 12.0
+
+[submodule "OCA-MUK/muk_bundles"]
+	path = OCA-MUK/muk_bundles
+	url = git@github.com:OCA-MUK/muk_bundles.git
+	branch = 12.0
