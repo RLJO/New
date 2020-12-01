@@ -1,0 +1,4 @@
+[submodule "OCA-MUK/muk_base"]
+	path = OCA-MUK/muk_base
+	url = git@github.com:OCA-MUK/muk_base.git
+	branch = 12.0
