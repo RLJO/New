@@ -7,3 +7,8 @@
 	path = OCA-MUK/muk_dms
 	url = git@github.com:OCA-MUK/muk_dms.git
 	branch = 12.0
+
+[submodule "OCA-MUK/muk_website"]
+	path = OCA-MUK/muk_website
+	url = git@github.com:OCA-MUK/muk_website.git
+	branch = 12.0
