@@ -22,3 +22,8 @@
 	path = OCA-MUK/muk_bundles
 	url = git@github.com:OCA-MUK/muk_bundles.git
 	branch = 12.0
+
+[submodule "OCA-MUK/muk_misc"]
+	path = OCA-MUK/muk_misc
+	url = git@github.com:OCA-MUK/muk_misc.git
+	branch = 12.0
